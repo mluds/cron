@@ -1,3 +1,3 @@
 ```
-docker run -d -v $(pwd)/MYCRONTAB:/etc/crontab mluds/cron
+docker run -d -v $(pwd)/MYCRONTAB:/etc/crontab mdludwig/cron
 ```
